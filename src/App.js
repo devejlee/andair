@@ -9,7 +9,7 @@ class App extends Component {
         {
           id: 0,
           title: "Falling Flowers",
-          src: "https://develijahlee.github.io/uic/yonseiEmblem.svg",
+          src: "../",
           alt: "A single flower",
           line1: "When petals fall in autumn,",
           line2: "Why admire cherry blossoms?",
