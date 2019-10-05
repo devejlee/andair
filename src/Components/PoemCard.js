@@ -32,7 +32,9 @@ class Poems extends Component {
           }}
         >
           <h2 className="cardTitle">{poem.title}</h2>
-          <img src={poem.src} alt={poem.alt} />
+          <div id={poem.style}>
+            <img src={poem.src} alt={poem.alt} />
+          </div>
         </article>
         <Modal
           onClose={this.showModal}

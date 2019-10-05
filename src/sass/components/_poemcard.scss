@@ -1,0 +1,50 @@
+.root {
+  position: relative;
+  > article {
+    background: #7e57c2;
+    cursor: pointer;
+    &:hover{
+      background: #4d2c91;
+      > div {
+        > img {
+          transform: scale(.85);
+          transition: transform .5s ease-in-out;
+        }
+      }
+    }
+    > h2 {
+      margin: 0;
+      padding: .5em 0;
+      text-align: center;
+    }
+    > div {
+      background: #eee;
+      > img {
+        display: block;
+        margin: 0 auto;
+        padding: 1em 0;
+        height: 200px;
+        @include xl {
+          height: 350px;
+        }
+      }
+    }
+  }
+  > article:nth-child(2n+1) {
+    @include md {
+      border-right: 1px solid #4d2c91;
+    }
+    @include xl {
+      border-right: none;
+    }
+  }
+  > article:not(:nth-child(3n)) {
+    @include xl {
+      border-right: 1px solid #4d2c91;
+    }
+  }
+}
+
+#fallingflowers {
+  background: #fff;
+}

@@ -8,8 +8,9 @@ class App extends Component {
       poems: [
         {
           id: 0,
+          style: "fallingflowers",
           title: "Falling Flowers",
-          src: "../",
+          src: "../img/fallingflowers.svg",
           alt: "A single flower",
           line1: "When petals fall in autumn,",
           line2: "Why admire cherry blossoms?",

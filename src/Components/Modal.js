@@ -24,7 +24,7 @@ class Modal extends Component {
             </button>
           </div>
         </div>
-        <div class="modal--overlay" />
+        <div className="modal--overlay" />
       </React.Fragment>
     );
   }
