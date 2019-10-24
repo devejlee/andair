@@ -1,10 +1,10 @@
 .root {
   position: relative;
   > article {
-    background: #7e57c2;
+    background: #5d4586;
     cursor: pointer;
     &:hover{
-      background: #4d2c91;
+      background: #53318c;
       > div {
         > img {
           transform: scale(.85);
@@ -32,7 +32,7 @@
   }
   > article:nth-child(2n+1) {
     @include md {
-      border-right: 1px solid #4d2c91;
+      border-right: 1px solid #53318c;
     }
     @include xl {
       border-right: none;
@@ -46,5 +46,76 @@
 }
 
 #fallingflowers {
+  background: #fedcea;
+}
+
+#chasingclouds {
+  background: #00b2ff;
+}
+
+#whilewaiting {
+  background: #ff6969;
+}
+
+#samesnow {
+  background: #3B83c7;
+}
+
+#snowsoil {
+  background: #43B44E;
+}
+
+#afterabsence {
+  background: #987136;
+}
+
+#lanternlight {
+  background: #edb038;
+}
+
+#totea {
+  background: #a1a1a1;
+}
+
+#watchingwater {
+  background: #5aaaf3;
+}
+
+#stillsleeping {
+  background: #5C1967;
+}
+
+#recallingrain {
+  background: #2743A7;
+}
+
+#afterawakening {
+  background: #565656;
+}
+
+#turningtides {
+  background: #edc9af;
+}
+
+#brokenbond {
+  background: #cf2929;
+}
+
+#lyinglight {
+  background: #1e1e1e;
+}
+
+#fineflame {
+  background: #d96b2d;
+}
+
+#continuedcrossing {
+  background: #1e7d8a;
+}
+
+#andair {
   background: #fff;
+  img {
+    visibility: hidden;
+  }
 }
