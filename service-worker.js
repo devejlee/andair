@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/andair/precache-manifest.46bbe370d42ae7c226a47a46ed7ba3bb.js"
+  "/andair/precache-manifest.040a55b12e3e49e1e59d73ec1fc211ad.js"
 );
 
 self.addEventListener('message', (event) => {
