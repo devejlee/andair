@@ -12,7 +12,7 @@ class App extends Component {
           title: "Falling Flowers",
           src: "./img/fallingflowers.svg",
           alt: "A cherry blossom",
-          line1: "test When petals fall in autumn,",
+          line1: "When petals fall in autumn,",
           line2: "Why admire cherry blossoms?",
           line3: "Because cherry blossoms fall,",
           line4: "Spring petals bloom in their place."
