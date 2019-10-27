@@ -9,10 +9,13 @@
     "@fortawesome/fontawesome-svg-core": "1.2.25",
     "@fortawesome/free-regular-svg-icons": "5.11.2",
     "@fortawesome/react-fontawesome": "0.1.5",
+    "node-sass": "^4.13.0",
     "react": "16.9.0",
     "react-dom": "16.8.6"
   },
   "devDependencies": {
+    "gh-pages": "^2.1.1",
+    "react-scripts": "^3.2.0",
     "typescript": "3.3.3"
   },
   "scripts": {
@@ -23,5 +26,10 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
