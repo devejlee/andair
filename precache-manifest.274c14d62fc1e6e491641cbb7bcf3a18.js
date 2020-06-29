@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3fda6f75b524b30dc8e66b6079fca81",
+    "revision": "6f6ff57f0d2c998fbfa34d45b91c3f2d",
     "url": "/andair/index.html"
   },
   {
-    "revision": "e8736a915fc27b05f969",
+    "revision": "61dc8e7a8bbbe9792082",
     "url": "/andair/static/css/main.8eaf2b60.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/andair/static/js/2.38494fa5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8736a915fc27b05f969",
-    "url": "/andair/static/js/main.236184a5.chunk.js"
+    "revision": "61dc8e7a8bbbe9792082",
+    "url": "/andair/static/js/main.3df65893.chunk.js"
   },
   {
     "revision": "a8495355c3752118761a",
