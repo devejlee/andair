@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/andair/static/css/main.8eaf2b60.chunk.css",
-    "main.js": "/andair/static/js/main.f4f7c598.chunk.js",
-    "main.js.map": "/andair/static/js/main.f4f7c598.chunk.js.map",
+    "main.js": "/andair/static/js/main.236184a5.chunk.js",
+    "main.js.map": "/andair/static/js/main.236184a5.chunk.js.map",
     "runtime-main.js": "/andair/static/js/runtime-main.4ab52b7e.js",
     "runtime-main.js.map": "/andair/static/js/runtime-main.4ab52b7e.js.map",
     "static/js/2.38494fa5.chunk.js": "/andair/static/js/2.38494fa5.chunk.js",
     "static/js/2.38494fa5.chunk.js.map": "/andair/static/js/2.38494fa5.chunk.js.map",
     "index.html": "/andair/index.html",
-    "precache-manifest.f0a4f205d666f66d2ca425a0c02c2024.js": "/andair/precache-manifest.f0a4f205d666f66d2ca425a0c02c2024.js",
+    "precache-manifest.0e31fbe06f65c7ae8b499e18ee54dc01.js": "/andair/precache-manifest.0e31fbe06f65c7ae8b499e18ee54dc01.js",
     "service-worker.js": "/andair/service-worker.js",
     "static/css/main.8eaf2b60.chunk.css.map": "/andair/static/css/main.8eaf2b60.chunk.css.map",
     "static/js/2.38494fa5.chunk.js.LICENSE.txt": "/andair/static/js/2.38494fa5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4ab52b7e.js",
     "static/js/2.38494fa5.chunk.js",
     "static/css/main.8eaf2b60.chunk.css",
-    "static/js/main.f4f7c598.chunk.js"
+    "static/js/main.236184a5.chunk.js"
   ]
 }
